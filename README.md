@@ -6,10 +6,7 @@ That enable you to use this String in CLI (Cloud Foundry etc)
 
 Example: 
 
-input: 
-
-JSON: 
-
+```input: 
 {
   "id": 1,
   "first_name": "Raj",
